@@ -1,0 +1,3 @@
+rootProject.name = 'gitome'
+
+include ':app'
